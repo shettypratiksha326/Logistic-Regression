@@ -1,0 +1,2 @@
+Logistic Regression
+Performed a Logistic Regression model in Jupyter Notebook using car data to predict whether a car will be purchased based on various features such as price, brand, fuel type, and engine size. The process included data preprocessing, feature selection, and splitting the dataset into training and test sets. The model was trained and evaluated using accuracy, confusion matrix, and other performance metrics. This analysis helped identify key factors influencing car purchases and provided valuable insights for targeted marketing and sales strategies.
